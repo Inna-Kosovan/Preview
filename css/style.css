@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.grid-container {
+
+}
+
+.grid-elem {
+    height: 50px;
+    background-color: rgba(1, 1, 96, 1);
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    font-style: 26px;
+    border: 1px solid #000;
+    border-radius: 4px;
+    
+    
+    
+    
+}
